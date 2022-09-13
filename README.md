@@ -26,12 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/46069858/189781588-8236e151-d387-4f37-ac45-014ab1a3f6b2.png)
+
+![image](https://user-images.githubusercontent.com/46069858/189781493-b2ff2ee5-b0db-4cd4-b532-d2d087b1523b.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify Drop](https://aquamarine-dusk-e3e1c2.netlify.app/)
 
 ## My process
 
