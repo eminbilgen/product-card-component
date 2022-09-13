@@ -10,9 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -45,10 +43,6 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 ## Author
 
 - Website - [Emin Bilgen](https://eminbilgen.github.io)
@@ -56,6 +50,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 - Twitter - [@eminbilgen00](https://www.twitter.com/eminbilgen00)
 
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
